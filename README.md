@@ -1,6 +1,6 @@
 # GitHub learning
 - [**x**] Creating a repository
 - [**x**] Creating a branch
-- [ ] *Making and committing changes*
-- [ ] *Opening a pull request*
-- [ ] *Merging your pull request*
+- [**x** ] Making and committing changes
+- [**x** ] Opening a pull request
+- [**x** ] Merging your pull request
